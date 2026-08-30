@@ -1,0 +1,13 @@
+../Core/Src/main.c:77:6:MCP2515_CS_Low	1
+../Core/Src/main.c:81:6:MCP2515_CS_High	1
+../Core/Src/main.c:85:6:MCP2515_WriteRegister	1
+../Core/Src/main.c:92:9:MCP2515_ReadRegister	1
+../Core/Src/main.c:102:6:MCP2515_Reset	1
+../Core/Src/main.c:110:9:MCP2515_Init	3
+../Core/Src/main.c:129:9:MCP2515_ReadMessage	3
+../Core/Src/main.c:141:6:MCP2515_SendMessage	2
+../Core/Src/main.c:166:5:main	2
+../Core/Src/main.c:222:6:SystemClock_Config	3
+../Core/Src/main.c:263:6:MX_SPI1_Init	2
+../Core/Src/main.c:303:6:MX_GPIO_Init	1
+../Core/Src/main.c:335:6:Error_Handler	1
